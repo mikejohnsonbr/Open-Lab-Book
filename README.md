@@ -7,7 +7,7 @@ Esse repositório abriga meu diário aberto de laboratório. Vou escrever as mem
 
 ## Diário
 
-* [Quarta-feira - 29/03/2017 - CTPMAG](Open-Lab-Book/notes/29-03-2017.md "oi")
+* [Quarta-feira - 29/03/2017 - CTPMAG](https://github.com/mikejohnsonbr/Open-Lab-Book/blob/master/notes/29-03-2017.md "oi")
 
 * [Terça-feira - 28/03/2017 - NNC](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/28-03-2017.md "oi")
 
