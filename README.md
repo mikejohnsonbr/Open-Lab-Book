@@ -1,8 +1,9 @@
 # Open Lab Book
 
-Olá! Meu nome é Vittor, sou aluno do curso de Engenharia de Controle e Automação na UFMG. Estou trabalhando no Núcleo de Neurociências da UFMG sob a orientação do professor Cleiton Aguiar do departamento de Fisiologia do ICB.
+Oi, meu nome é Mike, sou aluno do curso de Engenharia de Controle e Automação na UFMG e atualmente estou trabalhando no Núcleo de Neurociências da UFMG sob a orientação do professor Cleiton Aguiar do departamento de Fisiologia do ICB.
 
-Esse repositório abriga meu diário aberto de laboratório. Vou escrever as memórias de cada dia de trabalho no NNC e no CTPMAG.
+Esse repositório abriga meu diário aberto de laboratório. Resumirei os aprendizados e tarefas diárias no NNC e no CTPMAG.
+
 ****
 
 ## Diário
